@@ -39,3 +39,26 @@
 .read-the-docs {
   color: #888;
 }
+
+.hero-highlight {
+  font-weight: 600;
+  color: #f5c518;
+  background: linear-gradient(90deg, #fffbe6 0%, #f5c518 100%);
+  border-radius: 0.7em;
+  padding: 0.08em 0.7em;
+  box-shadow: 0 1px 8px #f5c51833;
+  display: inline-block;
+  margin-top: 0.5em;
+  letter-spacing: 0.5px;
+  font-size: 1.08em;
+}
+
+.canada-leaf-emoji {
+  font-size: 22px;
+  margin-right: 6px;
+}
+
+.canada-leaf-emoji-mobile {
+  font-size: 18px;
+  margin-right: 5px;
+}
